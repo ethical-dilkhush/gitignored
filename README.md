@@ -66,4 +66,4 @@ gitignored
 
 ## Tags / keywords
 
-git, gitignore, repository audit, developer tool, cli, python
+git, gitignore, cli, repository, audit
